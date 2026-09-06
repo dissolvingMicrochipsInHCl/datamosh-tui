@@ -2,12 +2,13 @@
 TUI-утилита для доступа к [брейккор-веб-радио DATAMOSH](https://datamosh.ru/radio).
 
 Нужно для работы:
-- vlc
-- curl
+- mpv
+- mpv-mpris
+- socat
 - jq
-- tput
+- curl
 
-~60М ОЗУ (VLC+kitty+curl)
+~80М ОЗУ (mpv+kitty+curl)
 
 # 
 ![Скриншот](screenshot.png)
